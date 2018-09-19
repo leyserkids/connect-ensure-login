@@ -1,5 +1,7 @@
 # connect-ensure-login
 
+THIS REPO WAS OPTIMIZED FOR LeySerKids, A BRAND OF GRAPECITY INC.
+
 This middleware ensures that a user is logged in.  If a request is received that
 is unauthenticated, the request will be redirected to a login page.  The URL
 will be saved in the session, so the user can be conveniently returned to the
@@ -61,15 +63,3 @@ what happens:
 
     $ npm install --dev
     $ make test
-
-[![Build Status](https://secure.travis-ci.org/jaredhanson/connect-ensure-login.png)](http://travis-ci.org/jaredhanson/connect-ensure-login)
-
-## Credits
-
-  - [Jared Hanson](http://github.com/jaredhanson)
-
-## License
-
-[The MIT License](http://opensource.org/licenses/MIT)
-
-Copyright (c) 2012-2013 Jared Hanson <[http://jaredhanson.net/](http://jaredhanson.net/)>

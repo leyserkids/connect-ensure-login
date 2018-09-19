@@ -1,24 +1,20 @@
 {
   "name": "connect-ensure-login",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Login session ensuring middleware for Connect.",
   "keywords": ["connect", "express", "auth", "authn", "authentication", "login", "session", "passport"],
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/connect-ensure-login.git"
+    "url": "git://github.com/leyserkids/connect-ensure-login.git"
   },
   "bugs": {
-    "url": "http://github.com/jaredhanson/connect-ensure-login/issues"
+    "url": "http://github.com/leyserkids/connect-ensure-login/issues"
   },
   "author": {
     "name": "Jared Hanson",
     "email": "jaredhanson@gmail.com",
     "url": "http://www.jaredhanson.net/"
   },
-  "licenses": [ {
-    "type": "MIT",
-    "url": "http://www.opensource.org/licenses/MIT" 
-  } ],
   "main": "./lib",
   "dependencies": {
   },
